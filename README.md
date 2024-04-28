@@ -1,1 +1,1 @@
-# source-build-this-is-a-parent-image
+Nonlatin characters within file names should not break the source container build.
